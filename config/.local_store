@@ -98,15 +98,17 @@
         "mmState": "clean"
     },
     "TransactionTriggerHandler.cls": {
-        "createdById": "0051I0000010moBQAQ",
-        "createdByName": "Ajay Sahu",
-        "createdDate": "2017-11-16T16:28:17.000Z",
-        "fileName": "unpackaged/classes/TransactionTriggerHandler.cls",
-        "fullName": "TransactionTriggerHandler",
         "id": "01p1I00000AjjoMQAR",
+        "name": "TransactionTriggerHandler",
+        "createdDate": "2017-11-16T16:28:17.000+0000",
+        "createdById": "0051I0000010moBQAQ",
+        "namespacePrefix": null,
         "lastModifiedById": "0051I0000010moBQAQ",
+        "lastModifiedDate": "2017-12-03T14:13:08.000+0000",
+        "fullName": "TransactionTriggerHandler",
+        "fileName": "unpackaged/classes/TransactionTriggerHandler.cls",
+        "createdByName": "Ajay Sahu",
         "lastModifiedByName": "Ajay Sahu",
-        "lastModifiedDate": "2017-11-26T20:16:27.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
