@@ -114,7 +114,6 @@ public with sharing class TransactionTriggerHandler {
 
   @future public static void OnAfterUpdateAsync(Set<ID> updatedRecordIDs){
     //List<Transaction__c> updatedRecords = [select Id, Name from Transaction__c where Id IN :updatedRecordIDs];
-    //List<Transaction__c> updatedRecords = [select Id, Name from Transaction__c where Id IN :updatedRecordIDs];
   }
 
   public void OnBeforeDelete(Transaction__c[] recordsToDelete, Map<ID, Transaction__c> recordMap){
