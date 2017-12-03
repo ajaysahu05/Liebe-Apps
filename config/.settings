@@ -1,0 +1,20 @@
+{
+    "projectName": "Liebe Apps",
+    "username": "ajay@sahu.com",
+    "id": "d0f32ab0-cae8-11e7-af8b-5bdc37cb0f98",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://liebe-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\Ajay\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "CustomObject",
+        "FlexiPage",
+        "StaticResource"
+    ]
+}
